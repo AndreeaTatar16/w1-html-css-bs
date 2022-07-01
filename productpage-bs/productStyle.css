@@ -1,0 +1,83 @@
+.main {
+    color: #f8c187 !important;
+    font-family: Roboto, Arial, monospace;
+    font-size: 14px;
+}
+
+.title {
+    font-family: Arial;
+    font-size: 44px;
+    color: white;
+}
+
+.fa-star {
+    color: #f8c187;
+}
+
+.bigDiv {
+    background: linear-gradient(45deg, #545d72, #161c2d);
+}
+
+.met {
+    color: white;
+}
+
+.verticalText {
+    position: relative;
+    padding-left: 50px;
+    margin: 1em 0;
+    min-height: 120px;
+}
+
+.verticalText_content {
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    left: -40px;
+    top: 35px;
+    position: absolute;
+    color: #FFF;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.line {
+    color: #f8c187;
+    width: 5px;
+}
+
+.methods {
+    color: white;
+}
+
+.rightDiv {
+    background-color: white;
+    border-radius: 5%;
+}
+
+.photoleft {
+    font-family: Arial;
+    font-size: 30px;
+    color: black;
+}
+
+.imgf {
+    height: 200px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.finalmenu {
+    background-color: darkgray;
+    border-radius: 10px;
+    height: 50px;
+    width: 400px;
+}
+
+.fa-2x {
+    margin-top: 10px;
+    margin-left: 30px;
+}

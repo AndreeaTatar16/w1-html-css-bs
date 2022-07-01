@@ -1,0 +1,105 @@
+li {
+    display: inline-block;
+}
+
+ul {
+    padding: 1%;
+    vertical-align: middle !important;
+}
+
+.button {
+    text-decoration: none;
+    color: #01161e;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.button:hover {
+    color: #ca2222;
+    text-decoration: none;
+    border-bottom: 1.5px solid #cb2222 !important;
+}
+
+li.left {
+    float: left;
+    font-size: 20px;
+    margin-left: 150px;
+    text-decoration: none;
+}
+
+li.right {
+    float: right;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.top-icon {
+    color: #01161e;
+    padding-left: 30px;
+}
+
+.top-icon:hover {
+    color: #cb2222;
+}
+
+.navbar {
+    text-align: end;
+    display: inline;
+    vertical-align: middle;
+}
+
+.main {
+    width: 100%;
+    height: 600px;
+}
+
+.background-main {
+    background: url("recipe-bs.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+
+.findRecipe {
+    font-size: xxx-large;
+    margin-top: 150px;
+}
+
+.bg-img {
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    position: absolute;
+    z-index: -1;
+    opacity: 70%;
+    top: 100px !important;
+}
+
+.card-fav {
+    display: inline-block;
+    border-radius: 10px;
+    padding-top: 10px;
+    flex: 1 1 auto;
+    text-align: center;
+}
+
+.iconsA {
+    text-decoration: none;
+    color: #cb2222;
+}
+
+.row-grid {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.cardRecipe {
+    margin-right: 20px !important;
+
+}

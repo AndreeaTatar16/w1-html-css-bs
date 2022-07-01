@@ -1,0 +1,205 @@
+.flex-container {
+    display: flex;
+    font-family: Verdana;
+
+}
+
+.flex-child {
+    margin: 20px;
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+    border-radius: 15px;
+    background-color: rgba(217, 218, 220, 0.62);
+    width: 400px;
+    height: 1200px;
+}
+
+.blueDiv {
+    background-color: #bad6d9;
+    border-radius: 15px 15px 0px 0px;
+    width: 400px;
+    height: 150px;
+}
+
+#circleImg {
+    width: 200px;
+    height: 200px;
+    margin-left: 60px;
+    margin-top: 60px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    border-radius: 50%;
+}
+
+.picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.picture {
+    background-color: #d8d9db;
+    border: 8px solid #fff;
+    position: relative;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.aboutDiv {
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    font-family: "Verdana";
+    margin-top: 180px;
+    margin-left: 50px;
+    font-size: 18px;
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    border-radius: 3px;
+    box-shadow: 0px 3px rgba(168, 154, 154, 0.27);
+}
+
+#aboutP {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.aboutText {
+    font-size: 12px;
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    text-align: justify;
+    padding: 30px;
+}
+
+.contactDiv {
+    padding-left: 40px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+.contactDivs {
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    background-color: #b9d5d8;
+    width: 300px;
+    height: 20px;
+    color: #000000;
+    border-radius: 5px;
+}
+
+.skillsP {
+    margin-top: 20px;
+    padding-left: 50px;
+    font-size: 14px;
+}
+
+.file {
+    margin-left: 20px;
+    margin-right: 50px;
+    float: right;
+}
+
+.flex-child-right {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px
+}
+
+.bigName {
+    font-size: 44px;
+    text-align: center;
+    width: 800px;
+    height: 150px;
+    border: 3px solid #b9d5d8;
+    margin: 0;
+}
+
+.studP {
+    font-size: 18px;
+}
+
+.nameDiv {
+    text-align: center;
+    width: 300px;
+    height: 75px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.social {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.workP {
+    font-size: 20px;
+    margin: 0;
+}
+
+.vl {
+    display: inline-block;
+    border-left: 2px solid lightgray;
+    height: 180px;
+}
+
+.workP1 {
+    display: inline;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.work1 {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.work-name {
+    display: flex;
+    max-width: 100px;
+    padding-top: 50px;
+    vertical-align: middle;
+
+}
+
+.work-name-desc {
+    max-width: 500px;
+    padding-top: 50px;
+    padding-left: 180px;
+}
+
+.romanita {
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

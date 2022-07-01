@@ -1,0 +1,125 @@
+.left {
+    background-color: #e6e7e8;
+    border-radius: 5px;
+    width: 400px;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.blueDiv {
+    background-color: #bad6d9;
+    width: 400px;
+    height: 180px;
+    border-radius: 20px 20px;
+}
+
+.imgCV {
+    margin-left: 80px;
+    margin-top: 50px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    border-radius: 50%;
+}
+
+.aboutInfo {
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: 18px;
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    border-radius: 3px;
+    box-shadow: 0px 3px rgba(168, 154, 154, 0.27);
+}
+
+.aboutText {
+    margin-left: 20px;
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    text-align: justify;
+}
+
+.picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.picture {
+    background-color: #d8d9db;
+    border: 8px solid #fff;
+    position: relative;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.contactDivs {
+    background-color: #b9d5d8;
+    width: 300px;
+    height: 40px;
+}
+
+.skills {
+    display: inline;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+.name {
+    font-size: xxx-large;
+    border-color: #b9d5d8 !important;
+}
+
+.speciP {
+    width: 300px;
+    height: 20px;
+    font-size: large;
+    position: relative;
+    left: 280px;
+    top: -19px;
+    background-color: white;
+}
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.vl {
+    display: inline-block;
+    border-left: 2px solid lightgray;
+    height: 150px;
+    margin-top: 20px;
+}
+
+.workP1 {
+    display: inline;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.work1 {
+    display: flex;
+}
+
+.work-name {
+    display: flex;
+    vertical-align: middle;
+}
+
+.work-name-desc {
+    max-width: 500px;
+}
+
+
+
+
+
